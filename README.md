@@ -4,7 +4,7 @@
 
 I'm an aspiring DevOps Engineer & Full-Stack Developer passionate about automation, cloud computing, and AI-driven solutions. I enjoy learning new technologies, solving complex problems, and contributing to open-source projects.
 
-- 🔭 I’m currently working on training in DevOps
+- 🔭 I’m currently working on DevOps related projects.
 - 🌱 I’m currently learning Docker, Kubernetes, Terraform, AWS, and CI/CD Pipelines
  <!--
 - 👯 I’m looking to collaborate on AI-based speech analysis project
