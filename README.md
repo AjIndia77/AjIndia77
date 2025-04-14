@@ -73,5 +73,5 @@
 </p>
 
 
-
+![AI Explorer](https://img.shields.io/badge/-AI%20Explorer-blueviolet)
 
