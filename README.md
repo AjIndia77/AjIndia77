@@ -34,6 +34,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AjIndia77&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff79c6&icon_color=ffb86c&text_color=f8f8f2&bg_color=0d1117" width="48%" />
 </p>
+![](https://github-readme-stats.vercel.app/api?username=Ektachasta&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ektachasta&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ektachasta&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjIndia77&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
