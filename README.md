@@ -35,6 +35,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AjIndia77&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff79c6&icon_color=ffb86c&text_color=f8f8f2&bg_color=0d1117" width="48%" />
 
   ![](https://nirzak-streak-stats.vercel.app/?user=AjIndia77&theme=onedark&hide_border=false)<br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AjIndia77&theme=tokyonight&hide_border=true&ring=ffb86c&fire=ff79c6&currStreakLabel=ffb86c" width="48%" />
+
 </p>
 
 <p align="center">
