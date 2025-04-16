@@ -41,6 +41,14 @@
 </p>
 
 ---
+<h4 align="center">
+  
+ ![:shimmie2](https://count.getloli.com/@shimmie2?name=shimmie2&theme=love-and-deepspace&padding=7&offset=0&align=center&scale=0.7&pixelated=1&darkmode=auto)
+
+  
+</h4>
+
+---
 
 ### 🚀 Featured Projects
 - [🔹 **DevOps Training Project**](https://github.com/AjIndia77/DevOps) – Hands-on DevOps practice and automation.
