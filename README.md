@@ -11,7 +11,6 @@
 ---
 
 ## 🚀 Tech Stack & Tools
-### 🚀 Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white"/>
