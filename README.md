@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjIndia77&show_icons=true&theme=tokyonight&title_color=ff79c6&icon_color=ffb86c&text_color=f8f8f2&bg_color=0d1117&theme=dark&include_all_commits=false&count_private=false&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjIndia77&show_icons=true&theme=tokyonight&title_color=ff79c6&icon_color=ffb86c&text_color=f8f8f2&bg_color=0d1117&include_all_commits=false&count_private=false&layout=compact" width="45%" />
 </p>
 
 ---
