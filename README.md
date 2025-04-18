@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjIndia77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjIndia77&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff79c6&icon_color=ffb86c&text_color=f8f8f2&bg_color=0d1117" width="48%" />
 </p>
 
 ---
