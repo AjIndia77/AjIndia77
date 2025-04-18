@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjIndia77&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjIndia77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" />
 </p>
 
 ---
@@ -72,6 +72,9 @@
 ---
 
 ## 🐍 Contribution Graph
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AjIndia77&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 
 
 <p align="center">
