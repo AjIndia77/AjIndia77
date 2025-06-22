@@ -60,6 +60,7 @@
 - ☁️ Cloud Platforms (AWS)  
 - 📚 System Design & Real-world projects  
 - 🧘‍♀️ Real-life Nen Training (*Hunter x Hunter* style)
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/c54aee9f-0990-4af3-9868-7b8d42662986/deploy-status)](https://app.netlify.com/projects/ambika-joshi-portfolio/deploys)
 
 ---
 
