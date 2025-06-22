@@ -13,7 +13,7 @@
 ## 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-A53939?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-896297?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-4c83aa?style=for-the-badge&logo=c++&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
