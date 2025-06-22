@@ -34,17 +34,17 @@
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AjIndia77&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff79c6&icon_color=ffb86c&text_color=f8f8f2&bg_color=0d1117" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AjIndia77&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff79c6&icon_color=ffb86c&text_color=f8f8f2&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamshaunjp&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff79c6&icon_color=ffb86c&text_color=f8f8f2&bg_color=0d1117" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=iamshaunjp&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff79c6&icon_color=ffb86c&text_color=f8f8f2&bg_color=0d1117" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjIndia77&show_icons=true&theme=tokyonight&title_color=ff79c6&icon_color=ffb86c&text_color=f8f8f2&bg_color=0d1117&include_all_commits=false&count_private=false&layout=compact" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshaunjp&show_icons=true&theme=tokyonight&title_color=ff79c6&icon_color=ffb86c&text_color=f8f8f2&bg_color=0d1117&include_all_commits=false&count_private=false&layout=compact" width="45%" />
 </p>
 
 ---
 <p align="center">
-  <img src="https://count.getloli.com/@AjIndia77?name=AjIndia77&theme=love-and-deepspace&padding=7&offset=0&align=center&scale=0.7&pixelated=1&darkmode=auto" />
+  <img src="https://count.getloli.com/@iamshaunjp?name=AjIndia77&theme=love-and-deepspace&padding=7&offset=0&align=center&scale=0.7&pixelated=1&darkmode=auto" />
 </p>
 
 ---
@@ -74,12 +74,12 @@
 
 ## 🐍 Contribution Graph
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AjIndia77&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=iamshaunjp&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AjIndia77/AjIndia77/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/iamshaunjp/AjIndia77/output/github-contribution-grid-snake.svg" />
 </p>
 
 
