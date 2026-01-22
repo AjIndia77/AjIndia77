@@ -52,7 +52,6 @@
 ### 🚀 Featured Projects
 - [🔹 **DevOps Training Project**](https://github.com/AjIndia77/DevOps) – Hands-on DevOps practice and automation.
 - [🔹 **Full Stack Projects**](https://github.com/AjIndia77/Full-stack-projects) – Web development projects showcasing frontend & backend skills.
-- [🔹 **AI-based Speech Analysis System**] *(Coming Soon...)* – An AI-driven tool for improving speech fluency.
 
 ---
 ## 🧠 Currently Learning
