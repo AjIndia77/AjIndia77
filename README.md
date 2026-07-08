@@ -34,24 +34,26 @@
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AjIndia77&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff79c6&icon_color=ffb86c&text_color=f8f8f2&bg_color=0d1117" width="47%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AjIndia77&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff79c6&icon_color=ffb86c&text_color=f8f8f2&bg_color=0d1117" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjIndia77&show_icons=true&theme=tokyonight&title_color=ff79c6&icon_color=ffb86c&text_color=f8f8f2&bg_color=0d1117&include_all_commits=false&count_private=false&layout=compact" width="46%" />
-</p>
-
----
-<p align="center">
   <img src="https://count.getloli.com/@AjIndia77?name=AjIndia77&theme=love-and-deepspace&padding=7&offset=0&align=center&scale=0.7&pixelated=1&darkmode=auto" />
 </p>
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AjIndia77&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=AjIndia77&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjIndia77&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=AjIndia77&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
 ---
 
-### 🚀 Featured Projects
-- [🔹 **DevOps Training Project**](https://github.com/AjIndia77/DevOps) – Hands-on DevOps practice and automation.
-- [🔹 **Full Stack Projects**](https://github.com/AjIndia77/Full-stack-projects) – Web development projects showcasing frontend & backend skills.
+## 🚀 Featured Projects
+- [DevOps Training with Project](https://github.com/AjIndia77/THE-COMPLETE-DEVOPS-AWS-ENGINEER-HANDBOOK) – Hands-on DevOps practice and automation.
+- [Nginx-AWS-Webserver](https://github.com/AjIndia77/teachingmyselfDevOps/Nginx-AWS-Webserver)
+- [AWS VPC by Terraform](https://github.com/AjIndia77/teachingmyselfDevOps/Terraform/project1.tf)
+- [AWS LAMP Server Setup](https://github.com/AjIndia77/aws-lamp-server-setup)
 
 ---
 ## 🧠 Currently Learning
@@ -59,27 +61,17 @@
 - 🤖 DevOps projects which helps IT companies
 - ☁️ Cloud Platforms (AWS)  
 - 📚 System Design & Real-world projects  
-- 🧘‍♀️ Real-life Nen Training (*Hunter x Hunter* style)
 
 ---
 
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ambika-joshi-58b628261)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/ambikajoshi97/)
+
 [![X (Twitter)](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Ajxdindia)
 
 ---
 
-## 🐍 Contribution Graph
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AjIndia77&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AjIndia77/AjIndia77/output/github-contribution-grid-snake.svg" />
-</p>
 
 
 
