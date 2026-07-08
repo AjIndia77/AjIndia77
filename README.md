@@ -56,7 +56,7 @@
 ---
 ## 🧠 Currently Learning
 
-- 🤖 AI for Speech Fluency Analysis  
+- 🤖 DevOps projects which helps IT companies
 - ☁️ Cloud Platforms (AWS)  
 - 📚 System Design & Real-world projects  
 - 🧘‍♀️ Real-life Nen Training (*Hunter x Hunter* style)
