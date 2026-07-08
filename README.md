@@ -36,14 +36,15 @@
 <p align="center">
   <img src="https://count.getloli.com/@AjIndia77?name=AjIndia77&theme=love-and-deepspace&padding=7&offset=0&align=center&scale=0.7&pixelated=1&darkmode=auto" />
 </p>
-
+---
 <p align="center">
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AjIndia77&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=AjIndia77&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjIndia77&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/langs/?username=AjIndia77&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Languages" />
+
   <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=AjIndia77&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
@@ -67,7 +68,6 @@
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ambika-joshi-58b628261)
-
 [![X (Twitter)](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Ajxdindia)
 
 ---
