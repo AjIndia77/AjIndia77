@@ -36,7 +36,9 @@
 <p align="center">
   <img src="https://count.getloli.com/@AjIndia77?name=AjIndia77&theme=love-and-deepspace&padding=7&offset=0&align=center&scale=0.7&pixelated=1&darkmode=auto" />
 </p>
+
 ---
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AjIndia77&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=AjIndia77&theme=tokyonight&hide_border=true" />
