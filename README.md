@@ -41,7 +41,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AjIndia77&show_icons=true&theme=tokyonight&hide_border=true" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AjIndia77&theme=tokyonight&border_radius=4.4" alt="GitHub Streak" /></a>
+ <img width="48%" src="https://streak-stats.demolab.com/?user=AjIndia77&theme=tokyonight&hide_border=true" />
 </p>
 
   <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=AjIndia77&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
